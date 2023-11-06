@@ -1,6 +1,6 @@
 Desarrollador y analista de datos apasionado por la tecnología. Programador desde que tengo memoria. Mis habilidades abarcan desde el desarrollo de aplicaciones hasta el análisis de datos, con un enfoque especial en machine learning. En mi tiempo libre, me encontrarás en el gimnasio, perfeccionando tanto mi mente como mi cuerpo. Siempre en busca de nuevos desafíos y oportunidades en el mundo tecnológico.
 
-Algunas tecnologia que aprendido:
+Algunas tecnologia que he aprendido:
 - Python
 - R
 - TensorFlow
