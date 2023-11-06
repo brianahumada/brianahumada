@@ -1,0 +1,5 @@
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-yellow)
+![SQL](https://img.shields.io/badge/SQL-Expert-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
