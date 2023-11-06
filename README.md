@@ -1,3 +1,22 @@
+Desarrollador y analista de datos apasionado por la tecnología. Programador desde que tengo memoria. Mis habilidades abarcan desde el desarrollo de aplicaciones hasta el análisis de datos, con un enfoque especial en machine learning. En mi tiempo libre, me encontrarás en el gimnasio, perfeccionando tanto mi mente como mi cuerpo. Siempre en busca de nuevos desafíos y oportunidades en el mundo tecnológico.
+
+Algunas tecnologia que aprendido:
+- Python
+- R
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- SQL
+- Análisis de datos
+- Aprendizaje automático
+- Procesamiento de datos
+- Visualización de datos
+
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
